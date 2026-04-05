@@ -1,8 +1,6 @@
 ![ClawSecure -- The Integrity Layer for AI Agent Skills and Workflows. Security scanner, free developer tools, and AI-powered runtime monitoring.](clawsecure-banner.png)
 
-<a href="https://www.producthunt.com/products/clawsecure">
-<img src="product-hunt-banner.png" alt="ClawSecure — #2 Product of the Day on Product Hunt" width="600" />
-</a>
+[![ClawSecure — #2 Product of the Day on Product Hunt](product-hunt-banner.png)](https://www.producthunt.com/products/clawsecure)
 
 ## ClawSecure
 
