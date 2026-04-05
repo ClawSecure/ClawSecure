@@ -8,9 +8,7 @@ ClawSecure builds the most secure AI agent developer tools on the market. We aud
 
 ### Global Threat Monitor
 
-<a href="https://clawsecure.github.io/clawsecure-openclaw-security/">
-<img src="https://clawsecure.github.io/clawsecure-openclaw-security/threat-map-preview.webp" alt="ClawSecure Global Threat Monitor" width="100%" />
-</a>
+[![ClawSecure Global Threat Monitor](threat-map-preview.webp)](https://clawsecure.github.io/clawsecure-openclaw-security/)
 
 > **[Launch Interactive Threat Monitor](https://clawsecure.github.io/clawsecure-openclaw-security/)** — Live threat data from 9,515 findings across 3,000+ audited OpenClaw skills
 
