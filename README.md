@@ -6,6 +6,12 @@
 
 ClawSecure builds the most secure AI agent developer tools on the market. We audit 3,000+ OpenClaw agent skills, provide AI-powered runtime monitoring and 24/7 Watchtower monitoring, and ship free, open-source tools that fix the everyday problems of working with AI agents.
 
+### Global Threat Monitor
+
+[![ClawSecure Global Threat Monitor — Real-time visualization of security threats across 3,000+ audited AI agent skills in the OpenClaw ecosystem](threat-map-preview.gif)](https://clawsecure.github.io/clawsecure-openclaw-security/)
+
+> **[Launch Interactive Threat Monitor](https://clawsecure.github.io/clawsecure-openclaw-security/)** — Live threat data from 9,515 findings across 3,000+ audited OpenClaw skills
+
 ### Free OpenClaw Developer Tools
 
 New tools ship weekly. See the full collection: **[openclaw-developer-tools](https://github.com/ClawSecure/openclaw-developer-tools)**
