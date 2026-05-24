@@ -20,9 +20,9 @@ New tools ship weekly. See the full collection: **[openclaw-developer-tools](htt
 
 | Tool | What It Does |
 |------|-------------|
-| **[Claude Timestamps](https://github.com/ClawSecure/claude-timestamps)** | Live timestamped session transcripts for Claude Code. Sidebar showing every message with exact timestamps across all workspaces. |
 | **[ShutUp Tabs](https://github.com/ClawSecure/shutup-tabs)** | Auto-closes Claude Code diff tabs in VS Code, Cursor, Windsurf, Antigravity, and all VS Code forks. |
 | **[Railgun](https://github.com/ClawSecure/railgun)** | Deterministic agent orchestration. YAML pipelines with runtime limits, concurrency caps, and per-step observability. |
+| **[Claude Timestamps](https://github.com/ClawSecure/claude-timestamps)** | Live timestamped session transcripts for Claude Code. Sidebar showing every message with exact timestamps across all workspaces. |
 
 ### OpenClaw Security Platform
 
